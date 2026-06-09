@@ -4,9 +4,7 @@
 ### Task 1 - Example of Python Data structues
 ```
 Give 2 meaningful examples for Python Data structues
-
 ```
-
  - [Lists](../Lists.ipynb)
 
  - [Sets](../sets.ipynb)
@@ -14,6 +12,7 @@ Give 2 meaningful examples for Python Data structues
  - [Tuples](../tuples.ipynb)
 
  - [Dictionaries](../dicitionaries.ipynb)
+
 
 
 ### Task 2 - Create 3 Dataframe using dictionaries
