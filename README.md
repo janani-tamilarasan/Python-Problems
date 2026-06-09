@@ -10,10 +10,5 @@ Give 2 meaningful examples for all String functions.
 ### Task 2
 Submit 2 meaningful examples for each module.
 
-#### Modules Covered
-- math
-- random
-- datetime
-- os
-- statistics
-- calendar
+[Conditions and Loops](1.b_conditional_loops.pynb)
+
