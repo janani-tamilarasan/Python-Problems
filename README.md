@@ -8,6 +8,6 @@ This repository contains solutions, examples, and assignments completed as part 
 Topics covered:
 - Python basics
 
-[View Chapter 1 Solutions](chapters/Python_Programming.md)
+[View Chapter 1 Tasks](chapters/Python_Programming.md)
 
 ---
