@@ -2,7 +2,7 @@
 
 This repository contains solutions, examples, and assignments completed as part of the PROITBRIDGE Python Programming course.
 
-## Chapters
+## Chapters - PYTHON
 
 ### Chapter 1 – Python Programming Fundamentals
 
