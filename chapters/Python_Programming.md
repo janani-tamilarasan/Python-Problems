@@ -5,7 +5,7 @@
 Give 2 meaningful examples for all String functions.
 ```
 
-[String Functions](strings.ipynb)
+[String Functions](./strings.ipynb)
 
 ### Task 2 - Conditions and loops
 ```
