@@ -18,7 +18,19 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ### Chapter 4 – Python For Data Analysis
 
-[View Chapter 3 Tasks](chapters/Python_For_Data_Analysis.md)
+[View Chapter 4 Tasks](chapters/Python_For_Data_Analysis.md)
+
+---
+
+### Chapter 5 – Advance Data visulaization
+
+[View Chapter 5 Tasks](chapters/Data_Visualization.md)
+
+---
+
+### Chapter 6 – OOPS in Python
+
+[View Chapter 6 Tasks](chapters/oops.md)
 
 ---
 
