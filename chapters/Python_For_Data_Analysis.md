@@ -3,7 +3,6 @@
 
 ### Task 1 - Coding problems/Articualtion training
 ```
-
 1.	Write a program to take a name and age from the user and print a greeting message.
 2.	Create a list of numbers and print only even numbers using a for loop.
 3.	Write a program that handles division by zero using try-except.
@@ -14,9 +13,7 @@
 8.	Create a DataFrame from a Python dictionary.
 9.	Replace all missing values in a DataFrame with the column’s mean.
 10.	Filter rows in a DataFrame where the "Age" column is greater than 30.
-
 ```
-
 [Coding Problems](../coding_problmes.ipynb)
 
 ---
