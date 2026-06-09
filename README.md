@@ -16,3 +16,11 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ---
 
+### Chapter 4 – Python For Data Analysis
+
+[View Chapter 3 Tasks](chapters/Python_For_Data_Analysis.md)
+
+---
+
+
+
