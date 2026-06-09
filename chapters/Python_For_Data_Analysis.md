@@ -17,3 +17,36 @@
 [Coding Problems](../coding_problmes.ipynb)
 
 ---
+
+### Task 2 - Data Cleaning Challenge on Sales Data.
+```
+Data Cleaning Challenge on Sales Data.
+```
+[Coding Problems](../coding_problmes.ipynb)
+
+---
+
+### Task 3 - Merge Function 1 Example
+```
+Merge Function 1 Example
+```
+[Coding Problems](../coding_problmes.ipynb)
+
+---
+### Task 4 - List Comprehension 2 examples
+```
+Merge Function 1 Example
+```
+[Coding Problems](../coding_problmes.ipynb)
+
+---
+### Task 5 - Lambda Function 2 examples with Map, Filter, Reduce
+```
+Merge Function 1 Example
+```
+[Coding Problems](../coding_problmes.ipynb)
+
+---
+
+
+
