@@ -7,6 +7,8 @@ Give 2 meaningful examples for all String functions.
 
 [String Functions](../strings.ipynb)
 
+---
+
 ### Task 2 - Conditions and loops
 ```
 Submit 2 examples for each module.
@@ -28,6 +30,8 @@ Submit 2 examples for each module.
 
 [Conditions and Loops](../1_b_conditional_loops.ipynb)
 
+---
+
 ### Task 3 - Rock, Paper, Scissors Game
 ```
 Build a simple Rock-Paper-Scissors game where the player competes with the computer.
@@ -47,6 +51,8 @@ Build a simple Rock-Paper-Scissors game where the player competes with the compu
 ```
 
 [Rock, Paper, Scissors Game](../1_c_rocks_paper_scissors_game.ipynb)
+
+---
 
 ### Task 4 - Word Guessing Game (Mini Hangman)
 ```
