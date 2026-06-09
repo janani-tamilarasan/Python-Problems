@@ -7,13 +7,13 @@ Give 2 meaningful examples for Python Data structues
 
 ```
 
-[Lists](../Lists.ipynb)
+ - [Lists](../Lists.ipynb)
 
-[Sets](../sets.ipynb)
+ - [Sets](../sets.ipynb)
 
-[Tuples](../tuples.ipynb)
+ - [Tuples](../tuples.ipynb)
 
-[Dictionaries](../dicitionaries.ipynb)
+ - [Dictionaries](../dicitionaries.ipynb)
 
 
 ### Task 2 - Create 3 Dataframe using dictionaries
