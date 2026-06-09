@@ -26,7 +26,7 @@ Submit 2 examples for each module.
 14.	if with not in operator
 ```
 
-[Conditions and Loops](1.b_conditional_loops.pynb)
+[Conditions and Loops](1_b_conditional_loops.ipynb)
 
 ### Task 3 - Rock, Paper, Scissors Game
 ```
@@ -46,7 +46,7 @@ Build a simple Rock-Paper-Scissors game where the player competes with the compu
 5.	Handle invalid inputs gracefully using try-except or condition checks.
 ```
 
-[Rock, Paper, Scissors Game](1.c_rocks_paper_scissors_game.pynb)
+[Rock, Paper, Scissors Game](1_c_rocks_paper_scissors_game.ipynb)
 
 ### Task 4 - Word Guessing Game (Mini Hangman)
 ```
@@ -69,4 +69,4 @@ This will test your:
 
 ```
 
-[Word Guessing Game](1.d_word_guessing_game.pynb)
+[Word Guessing Game](1_d_word_guessing_game.ipynb)
