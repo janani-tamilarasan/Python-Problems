@@ -24,7 +24,7 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ### Chapter 5 – Advance Data visulaization
 
-[View Chapter 5 Tasks](chapters/Data_Visualization.md)
+[View Chapter 5 Tasks](chapters/Python_data_visulaization.md)
 
 ---
 
