@@ -35,7 +35,7 @@ Merge Function 1 Example
 ---
 ### Task 4 - List Comprehension 2 examples
 ```
-Merge Function 1 Example
+List Comprehension
 ```
 [List Comprehension](../List_Comprehension.ipynb)
 
