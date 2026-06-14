@@ -22,7 +22,7 @@
 ```
 Data Cleaning Challenge on Sales Data.
 ```
-[Coding Problems](../coding_problmes.ipynb)
+[Data Cleaning](../Data_Cleaning.ipynb)
 
 ---
 
@@ -30,21 +30,21 @@ Data Cleaning Challenge on Sales Data.
 ```
 Merge Function 1 Example
 ```
-[Coding Problems](../coding_problmes.ipynb)
+[Merge function](../merge_function.ipynb)
 
 ---
 ### Task 4 - List Comprehension 2 examples
 ```
 Merge Function 1 Example
 ```
-[Coding Problems](../coding_problmes.ipynb)
+[List Comprehension](../List_Comprehension.ipynb)
 
 ---
 ### Task 5 - Lambda Function 2 examples with Map, Filter, Reduce
 ```
-Merge Function 1 Example
+ Lambda Function 2 examples with Map, Filter, Reduce
 ```
-[Coding Problems](../coding_problmes.ipynb)
+[Lambda Functions](../Lambda_Functions.ipynb)
 
 ---
 
