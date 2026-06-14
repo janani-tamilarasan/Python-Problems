@@ -30,7 +30,7 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ### Chapter 6 – OOPS in Python
 
-[View Chapter 6 Tasks](chapters/oops.md)
+[View Chapter 6 Tasks](chapters/Python_oops.md)
 
 ---
 
