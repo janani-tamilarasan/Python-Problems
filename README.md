@@ -22,6 +22,11 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ---
 
+### Chapter 5 – Data Visualization
+
+[View Chapter 5 Tasks](chapters/Python_data_visulaization.md)
+
+---
 
 ### Chapter 6 – OOPS in Python
 
