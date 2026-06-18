@@ -3,7 +3,7 @@
 This repository contains solutions, examples, and assignments completed as part of the PROITBRIDGE Machine learning course.
 
 ## Machine Learning Types
-
+```text
  - ### Supervised - Input and output is present
      - #### Regression - If y is continous
         - #### Linear Regression 
@@ -15,3 +15,4 @@ This repository contains solutions, examples, and assignments completed as part 
            - Muliple Logical Regression
  - ### UnSupervised Learning - Only input present
  - ### Re-inforcement
+```
