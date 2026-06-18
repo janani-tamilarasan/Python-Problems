@@ -2,7 +2,8 @@
 
 This repository contains solutions, examples, and assignments completed as part of the PROITBRIDGE Machine learning course.
 
-## Machine Learning Types
+## Machine Learning Notes
+
 ```text
  - Supervised - Input and output is present
      - Regression - If y is continous
