@@ -1,38 +1,17 @@
-# PROITBRIDGE Tasks
+# PROITBRIDGE Machine Learnin Task
 
-This repository contains solutions, examples, and assignments completed as part of the PROITBRIDGE Python Programming course.
+This repository contains solutions, examples, and assignments completed as part of the PROITBRIDGE Machine learning course.
 
-## Chapters - PYTHON
+## Machine Learning Types
 
-### Chapter 1 – Python Programming Fundamentals
-
-[View Chapter 1 Tasks](chapters/Python_Programming.md)
-
----
-
-### Chapter 2 – Python Data Structures
-
-[View Chapter 2 Tasks](chapters/Python_Data_Structures.md)
-
----
-
-### Chapter 4 – Python For Data Analysis
-
-[View Chapter 4 Tasks](chapters/Python_For_Data_Analysis.md)
-
----
-
-### Chapter 5 – Data Visualization
-
-[View Chapter 5 Tasks](chapters/Python_data_visulaization.md)
-
----
-
-### Chapter 6 – OOPS in Python
-
-[View Chapter 6 Tasks](chapters/Python_oops.md)
-
----
-
-
-
+ - ### Supervised - Input and output is present
+     - #### Regression - If y is continous
+        - #### Linear Regression 
+           - Single Linear Regreesion
+           - Muliple Linaer Regression
+     - #### Classification
+        - #### Logical Regression
+           - Single Logical Regreesion
+           - Muliple Logical Regression
+ - ### UnSupervised Learning - Only input present
+ - ### Re-inforcement
