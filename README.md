@@ -4,15 +4,19 @@ This repository contains solutions, examples, and assignments completed as part 
 
 ## Machine Learning Types
 ```text
- - ### Supervised - Input and output is present
-     - #### Regression - If y is continous
-        - #### Linear Regression 
+ - Supervised - Input and output is present
+     - Regression - If y is continous
+        - Linear Regression 
            - Single Linear Regreesion
            - Muliple Linaer Regression
-     - #### Classification
-        - #### Logical Regression
+     - Classification
+        - Logical Regression
            - Single Logical Regreesion
            - Muliple Logical Regression
- - ### UnSupervised Learning - Only input present
- - ### Re-inforcement
+ - UnSupervised Learning - Only input present
+ - Re-inforcement
 ```
+
+---
+
+
